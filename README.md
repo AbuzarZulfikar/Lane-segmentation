@@ -4,8 +4,7 @@ In this project, *Lane Segmentation* and *Traffic Sign Detection/Classification*
 
 Developers of this project:
 
-- [Ayça Burcu Bingül](https://www.linkedin.com/in/aycaburcubingul/)
-- [Recep Aydoğdu](https://www.linkedin.com/in/recepayddogdu/)
+- [Abu Zar Zulfikar](https://www.linkedin.com/in/abuzarzulfikar/)
 
 Some of the technologies used in the project; **Python, OpenCV, Pytorch, TensorFlow, YOLOv4**
 
